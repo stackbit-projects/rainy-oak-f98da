@@ -22,7 +22,7 @@ portfolio:
 
 # testimonial
 testimonial:
-  enable : false
+  enable : true
   title : "Testimonials"
   item:
     - name : "Jesica Gomez"
